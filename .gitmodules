@@ -1,0 +1,3 @@
+[submodule "deep-potential"]
+	path = deep-potential
+	url = https://github.com/gregreen/deep-potential.git
